@@ -99,4 +99,4 @@ CO2-Emission-Predictor/
 
 Feel free to connect for contributions, questions, or suggestions:
 
-- Email: [work.abhiinavv@gmail.com]  
+- Email: [ananyasingh.new.203@gmail.com]  
