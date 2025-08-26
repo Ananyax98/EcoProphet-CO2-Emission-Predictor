@@ -1,5 +1,5 @@
 import google.generativeai as genai
-genai.configure(api_key="AIzaSyD9Gi3C3IWovq8BvLykbheaWU8XmUqKBDs")
+genai.configure(api_key="YOUR_API_KEY")
 
 def get_recommendations(predicted_co2):
     """
