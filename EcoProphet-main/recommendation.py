@@ -5,7 +5,7 @@ def get_recommendations(predicted_co2):
     """
     Generates CO2 emission reduction recommendations based on the predicted value.
 
-    :param predicted_co2: The predicted CO2 emission value.
+    :param predicted_co2: The predicted CO2 Emission Value.
     :return: AI-generated recommendation.
     """
     car_recommendation1 = "Example Car 1"  # Define the variable with an example value
